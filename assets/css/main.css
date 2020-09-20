@@ -3694,7 +3694,6 @@ body:before {
 
 #header>.logo>a>img {
     width: auto;
-    max-width: 1100px;
     height: 90%;
     margin-top: 2px;
     position: absolute;
